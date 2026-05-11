@@ -15,7 +15,7 @@ input.addEventListener('keypress' , function(event){
         switch(senha){
 
             case senha1:
-                window.location.href = "../pages/catavento.html";
+                window.location.href = "alusao/pages/catavento.html";
                 break;
 
         }
